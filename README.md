@@ -6,7 +6,7 @@ A small tool to automatically tag a repository based on the last commit message
 ### From source
 
 ```
-github.com/siklol/versioner/cmd/versioner
+go install github.com/siklol/versioner/cmd/versioner
 ```
 
 ## Usage
